@@ -1,3 +1,6 @@
+# Voodooudu version
+This is my modification on the Udacity fork of 2048 from the Make2048 course. 
+
 # Make 2048
 A Udacity version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
 
